@@ -1,0 +1,8 @@
+로컬 저장소와 원격저장소 연결하기
+
+git remote add origin http://jgpark0830/java-lang.git
+
+사용자 이름 jgpark0830
+repo 이름 java-lang
+
+git remote -v
